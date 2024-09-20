@@ -1,0 +1,8 @@
+"hosting": {
+  "public": "hefer-chats",  // the only required attribute for Hosting
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
